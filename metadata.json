@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Dead Reckoning",
+  "description": "AI-ML based Intelligent Dead Reckoning and GNSS+INS Sensor Fusion navigation system for tunnels, urban canyons, and GNSS-denied environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
